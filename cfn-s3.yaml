@@ -1,6 +1,5 @@
-AWSTemplateFormatVersion: "2010-09-09"
 Resources:
   SampleS3Bucket:
-  Type: 'AWS::S3::Bucket'
-  Properties:
-    BucketName: mydemobucket5678436
+    Type: 'AWS::S3::Bucket'
+    Properties:
+      BucketName: mydemobucket5678436
